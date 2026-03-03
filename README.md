@@ -1,4 +1,19 @@
-# Django REST Framework Starter Template
+# # Enterprise Django REST API
+
+## Project Overview
+
+This project is a customized and explored version of a production-ready Django REST Framework backend template. 
+
+The objective was to understand enterprise-level backend architecture, authentication mechanisms, and scalable API design principles used in real-world systems.
+
+### Key Focus Areas
+- Implementation of JWT-based authentication
+- Secure RESTful API structure
+- PostgreSQL-ready database configuration
+- Modular and scalable project architecture
+- CORS configuration for cross-origin access
+
+This project helped strengthen backend development skills and provided hands-on exposure to production-style Django applications.
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Django](https://img.shields.io/badge/Django-6.0+-green.svg)
